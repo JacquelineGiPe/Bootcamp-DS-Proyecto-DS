@@ -1,0 +1,15 @@
+Ejemplo de formato
+Dataset 1: Global YouTube Statistics 2023
+URL: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
+Razon a elegir: Me interesa poder generar un modelo que permita predecir que tan exitoso puede ser un canal de youtube
+Variables de interes: 
+#youtuber: Representa el nombre del canal
+#subscribers : Representa el numero de subscriptores
+#video Views : Representa el numero de vistas en cada video
+#category : Represental la categoria del canal de youtube, ejemplo (Entretenimiento, musica, educacion, ciencia y tecnologia etc...)
+#country : Representa el pais al que pertenece el canal
+#lowest_monthly_earnings : Representa cuando se gano en el mes con menor ganancia
+#highest_monthly_earnings : Representa cuando se gano en el mes con mayor ganancia
+#lowest_yearly_earnings : Representa cuando se gano en el año con menor ganancia
+#highest_yeatly_earnings : Representa cuando se gano en el año con mayor ganancia
+#created_year : Representa el año en el que fue creado el canal
