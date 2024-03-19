@@ -1,8 +1,15 @@
-Ejemplo de formato
 Dataset 1: Global YouTube Statistics 2023
+
 URL: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
-Razon a elegir: Me interesa poder generar un modelo que permita predecir que tan exitoso puede ser un canal de youtube
+
+Razon a elegir: Me interesa poder generar un modelo que permita predecir que tan exitoso puede ser un canal de youtube, ya que en un futuro planeo abrir un canal de youtube.
+
+Posibles preguntas a solucionar: ¿Qué factores predicen el éxito de un canal de YouTube?
+¿Qué categorías de canales de YouTube son las más populares?
+¿En qué países se encuentran los YouTubers más populares?
+
 Variables de interes: 
+
 #youtuber: Representa el nombre del canal
 #subscribers : Representa el numero de subscriptores
 #video Views : Representa el numero de vistas en cada video
@@ -13,3 +20,53 @@ Variables de interes:
 #lowest_yearly_earnings : Representa cuando se gano en el año con menor ganancia
 #highest_yeatly_earnings : Representa cuando se gano en el año con mayor ganancia
 #created_year : Representa el año en el que fue creado el canal
+
+
+
+
+
+Dataset 2: Car Sales Report
+
+URL: https://www.kaggle.com/datasets/missionjee/car-sales-report/data
+
+Razon a elegir: Me interesa poder generar un modelo que permita predecir  el precio de venta de un automóvil.
+
+Posibles preguntas a solucionar: ¿Hay una diferencia significativa en el precio de venta de automóviles entre diferentes géneros?
+¿Hay una correlación entre el precio de venta y los ingresos anuales? ¿Qué factores influyen en la decisión de compra de un automóvil?
+
+Variables de interes: 
+
+Date: Fecha de la transacción de venta del automóvil.
+Gender: Género del cliente (por ejemplo, hombre, mujer)
+Annual Income: Ingresos anuales de la cliente.(femenino)
+Company: Empresa o marca del coche.
+Engine: Especificaciones del motor del coche.
+Transmission: Tipo de transmisión del automóvil (p. ej., automática, manual)
+Color: Color del exterior del coche.
+Price: Precio de cotización del coche en venta.
+
+
+
+
+
+
+Dataset 3: E-commerce Cosmetic Products
+
+URL: https://www.kaggle.com/datasets/devi5723/e-commerce-cosmetics-dataset/data
+
+Razon a elegir: Me interesa poder generar un modelo que permita predecir el precio de un producto cosmético y como pueden los vendedores de productos cosméticos aumentar sus ventas.
+
+Posibles preguntas a solucionar: ¿Hay una diferencia significativa en el precio de los productos cosméticos entre diferentes sitios web?
+¿Hay una correlación entre el precio y la valoración del producto? ¿Qué sitios web son los más populares para comprar productos cosméticos? 
+¿Qué marcas de productos cosméticos son las más populares? ¿Cómo pueden los vendedores de productos cosméticos aumentar sus ventas?
+
+Variables de interes: 
+
+Product_name: El nombre del producto.
+Website: El sitio web del que se extrajo. (Ulta, Amazon, Flipkart o Sephora)
+Category: La categoría de producto cosmético. (ojos, rostro, labios, cuerpo, cuidado de la piel o cabello)
+Price: El precio del producto en INR.
+Brand: La marca de cada producto.
+Rating: La valoración del cliente sobre el producto. (0 a 5)
+Number of ratings: El número de clientes que calificaron ese producto.
+
